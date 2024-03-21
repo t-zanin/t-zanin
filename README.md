@@ -14,6 +14,5 @@
 </div><br/>
 
 ![T-zanin's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-zanin&show_icons=true&theme=dracula)
-![T-zanin Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-zanin&hide_progress=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
