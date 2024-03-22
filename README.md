@@ -13,6 +13,9 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-![T-zanin's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-zanin&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div>
+    <a href="https://github.com/t-zanin">
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=t-zanin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=t-zanin&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
