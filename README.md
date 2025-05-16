@@ -1,6 +1,9 @@
-### Hey everyone, I'm Thiago! Passionate about Data Science, analytics, and turning data into insights. Constantly learning and exploring new technologies!  <img align="center" alt="edx" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/>
+# Hey everyone, I'm Thiago Zanin! 
 
-#### Technologies I use in my day
+### Passionate about Data Science, analytics, and turning data into insights. Constantly learning and exploring new technologies!  
+With over a decade of experience in tech, I’ve also worked as a web developer building full-featured websites and systems using a wide range of languages and frameworks like JavaScript, PHP, HTML, CSS, and modern frontend stacks. My current focus is applying data science and machine learning to solve real-world problems.
+
+### 🛠️ Technologies I use in my day
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,10 +16,34 @@
     <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </div><br/>
 
+---
+
+#### 📫 Find me on LinkedIn::
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagozanin07/)
+
+---
+
+### 💼 Technologies I’ve worked with:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div><br/>
+
+### 📊 GitHub Stats
+
+---
 
 <div>
     <a href="https://github.com/t-zanin">
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=t-zanin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=t-zanin&layout=compact&langs_count=16&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-zanin&layout=compact&langs_count=16&theme=dracula" style="width: 500px;" />
+  </a>
+           
 </div>
 
+---
