@@ -49,7 +49,7 @@ With over a decade of experience in tech, I’ve also worked as a web developer 
 ---
 
 # Data Science Project
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Descrição  | 
+|    Project Title  | Code / Notebook    | Technologies    | Overview  | 
 | ------------        | ------------        | ------------ |------------ |
 | **Churn Prediction - Interconnect** | [GitHub Repo](https://github.com/t-zanin/projeto-churn-interconnect/) | Python (Scikit-learn)| This project was developed as part of a final sprint to predict customer churn for the telecommunications provider Interconnect. The task involved analyzing customer personal data, plans, and contracts to identify churn patterns and create a machine learning model. The goal is to provide insights that allow the company to offer promotional codes and special plans to retain at-risk customers. The dataset includes information on contracts, personal data, internet, and phone services.|
 | **Megaline Telecom Revenue Analysis** | [GitHub Repo](https://github.com/t-zanin/DS-megaline) | Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy (for statistical tests))| This project analyzes customer behavior and revenue generation for Megaline, a telecommunications company offering two prepaid plans: Surf and Ultimate. The goal is to determine which plan generates more revenue to optimize the company’s advertising budget. Based on a sample of 500 customers, the analysis examines call, text, and data usage patterns in 2018 to identify revenue trends and provide actionable insights.|
