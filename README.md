@@ -51,6 +51,6 @@ With over a decade of experience in tech, I’ve also worked as a web developer 
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Descrição  | 
 | ------------        | ------------        | ------------ |------------ |
-|                  **Data Science Project**                             |
+|    |    |    |   **Data Science Project**                             |
 | **Churn Prediction - Interconnect** | [My Kaggle Notebook](https://github.com/t-zanin/projeto-churn-interconnect/) | Python, Scikit Learn| This project was developed as part of a final sprint to predict customer churn for the telecommunications provider Interconnect. The task involved analyzing customer personal data, plans, and contracts to identify churn patterns and create a machine learning model. The goal is to provide insights that allow the company to offer promotional codes and special plans to retain at-risk customers. The dataset includes information on contracts, personal data, internet, and phone services.|
 
