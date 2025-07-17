@@ -65,18 +65,22 @@ Below are some of the certifications I've earned throughout my journey in Data S
 
 | Certificate | Issuer | Skills | Link |
 |------------|--------|--------|------|
-| **CS50: Introduction to Computer Science** | Harvard University | C, Python, Algorithms, Web Dev | [See Credential](https://cs50.harvard.edu/certificates/) |
-| **Data Science Bootcamp** | TripleTen | Python, ML, SQL, Statistics, Projects | [TripleTen](https://tripleten.com) |
+| **CS50: Introduction to Computer Science** <img src="havard.jpg" width="400"/> | Harvard University | C, Python, Algorithms, Web Dev | [See Credential](https://cs50.harvard.edu/certificates/) |
+| **Data Science Bootcamp** <img src="tripleten.jpg" width="400"/> | TripleTen | Python, ML, SQL, Statistics, Projects | [TripleTen](https://tripleten.com) |
+
 
 ---
 
 ### 🏅 Certificate Highlights
-
-<img src="certificates/sql.png" width="400"/>  
+ 
 🗂️ **SQL & Data Collection** – Skills: SQL, API, HTML, JSON
 
-<img src="certificates/ml.png" width="400"/>  
+<img src="sql.png" width="400"/>
+ 
 🤖 **Machine Learning Mastery** – Skills: Model training, Validation, Neural networks
 
-<img src="certificates/business.png" width="400"/>  
+<img src="ml.png" width="400"/> 
+  
 📊 **Business Decision Making with ML** – Skills: Metrics, Classification, scikit-learn
+
+<img src="business.png" width="400"/>
