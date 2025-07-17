@@ -64,9 +64,9 @@ With over a decade of experience in tech, I’ve also worked as a web developer 
 Below are some of the certifications I've earned throughout my journey in Data Science and Technology:
 
 | Certificate | Issuer | Skills | Link |
-|------------|--------|--------|------|
-| **CS50: Introduction to Computer Science** <img src="havard.jpg" width="400"/> | Harvard University | C, Python, Algorithms, Web Dev | [See Credential](https://cs50.harvard.edu/certificates/) |
-| **Data Science Bootcamp** <img src="tripleten.jpg" width="400"/> | TripleTen | Python, ML, SQL, Statistics, Projects | [TripleTen](https://tripleten.com) |
+|---------|--------|--------|------|
+| **CS50: Introduction to Computer Science** <img src="havard.jpg" width="300"/> | Harvard University | C, Python, Algorithms, Web Dev | [See Credential](https://cs50.harvard.edu/certificates/) |
+| **Data Science - Bootcamp TripleTen** <img src="tripleten.jpg" width="300"/> | TripleTen | Python, ML, SQL, Statistics, Projects | [TripleTen](https://tripleten.com) |
 
 
 ---
